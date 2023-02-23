@@ -7,7 +7,7 @@ verbis_defaults_rust
 
 verbis_symlink_cache_dir git
 
-stow -t ~ gitconfig
+stow -t ~ myhomedir
 
 # If Samply.Beam not yet present, clone the develop branch
 verbis_clone github.com:samply/beam develop
