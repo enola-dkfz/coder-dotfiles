@@ -14,3 +14,6 @@ verbis_clone github.com:samply/beam develop
 
 # Same for the Bridgehead -- but here, clone the default branch
 verbis_clone github.com:samply/bridgehead
+
+# Clone focus develop
+verbis_clone github.com:samply/focus develop
